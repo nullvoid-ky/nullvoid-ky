@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/gun-pattanaprateepkul-3b2b63246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gun-pattanaprateepkul-3b2b63246" height="30" width="40" /></a>
 <a href="https://instagram.com/kanyok.db8r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kanyok.db8r" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ก้านหยก" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ก้านหยก" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCVc6XYejZeL8GJg11w5iEeA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ก้านหยก" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
