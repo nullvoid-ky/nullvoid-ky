@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there I'm Gun Pattanaprateepkul (Kanyok/Yok). I am a Computer Engineering Student at King mongkut's institute of technology ladkrabang
+
 
 <!--
 **nullvoid-ky/nullvoid-ky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
