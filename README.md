@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm Kanyok</h1>
 <h3 align="center">I'm Gun Pattanaprateepkul (Kanyok/Yok). I am a Computer Engineering Student at King mongkut's institute of technology ladkrabang</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nullvoid-ky&label=Profile%20views&color=0e75b6&style=flat" alt="nullvoid-ky" /> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nullvoid-ky" alt="nullvoid-ky" style="height: 50%;">
+  </a>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nullvoid-ky" alt="nullvoid-ky" /></a> </p>
+- 🌱 I’m currently learning **Go**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kanyok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanyok" height="30" width="40" /></a>
+<a href="https://instagram.com/kanyok.db8r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kanyok.db8r" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
