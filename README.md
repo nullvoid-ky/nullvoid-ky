@@ -9,8 +9,8 @@
 <a href="https://instagram.com/kanyok.db8r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kanyok.db8r" height="30" width="40" /></a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nullvoid-ky&theme=nord&row=1&column=9)](https://github.com/ryo-ma/github-profile-trophy)
-<p  align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nullvoid-ky&theme=nord" alt="nullvoid-ky" /></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=nullvoid-k&theme=tokyonight&row=1&column=9)](https://github.com/ryo-ma/github-profile-trophy)
+<p  align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nullvoid-ky&theme=tokyonight" alt="nullvoid-ky" /></p>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
   </a>
